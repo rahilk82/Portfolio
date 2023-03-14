@@ -38,7 +38,7 @@ const About = () => {
 					of rigorous training, here I am Ready for an Action!!!
 					<span style={{ color: `#00a0a0` }}>
 						{' '}
-						looking for an opportunity as a DevOps Engineer
+						If you got an exciting opportunity, drop a message.
 					</span>
 					.
 				</p>

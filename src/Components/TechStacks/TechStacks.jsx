@@ -26,8 +26,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-html5-plain colored' />
-					<span>HTML</span>
+					<i className='devicon-linux-plain colored' />
+					<span>Linux</span>
 				</div>
 				<div
 					style={{
@@ -36,8 +36,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-css3-plain colored' />
-					<span>CSS</span>
+					<i className='devicon-git-plain colored' />
+					<span>Git</span>
 				</div>
 				<div
 					style={{
@@ -46,8 +46,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-javascript-plain colored' />
-					<span>Javascript</span>
+					<i className='devicon-terraform-plain colored' />
+					<span>Terraform</span>
 				</div>
 				<div
 					style={{
@@ -56,8 +56,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-react-original colored' />
-					<span>React</span>
+					<i className='devicon-amazonwebservices-original colored' />
+					<span>AWS</span>
 				</div>
 				<div
 					style={{
@@ -68,9 +68,9 @@ const TechStacks = () => {
 				>
 					<i
 						style={{ color: '#7248B6' }}
-						className='devicon-redux-original'
+						className='devicon-jenkins-plain colored'
 					/>
-					<span>Redux</span>
+					<span>Jenkins</span>
 				</div>
 				<div
 					style={{
@@ -92,8 +92,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-express-original' />
-					<span>Express</span>
+					<i className='devicon-kubernetes-plain colored' />
+					<span>Kubernetes</span>
 				</div>
 				<div
 					style={{
@@ -102,8 +102,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-mongodb-plain colored' />
-					<span>MongoDB</span>
+					<i className='devicon-docker-plain colored' />
+					<span>Docker</span>
 				</div>
 			</div>
 		</div>

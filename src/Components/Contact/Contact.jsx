@@ -57,7 +57,7 @@ const Contact = () => {
 					</a>
 
 					<a
-						href='https://www.linkedin.com/in/rahilkhan82/'
+						href='https://www.linkedin.com/in/rahilkhan82'
 						aria-label='Linkedin'
 						target='_blank'
 						rel='noreferrer'
