@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://media-exp1.licdn.com/dms/image/C4E03AQFvgcMpAQAJFg/profile-displayphoto-shrink_800_800/0/1644673225410?e=1652918400&v=beta&t=IK3Lt6j6HL1WvnXgcdFnxX8TFuhAIftQX9nYkFkEY4o' //my Picture
+						src='https://media.licdn.com/dms/image/D4D03AQE2vRxmIfM7sg/profile-displayphoto-shrink_800_800/0/1679158262575?e=1684368000&v=beta&t=98wVGqJSe_ZG7hVbKsq1LN2btuXtEMYmQ0_uD_Eqyqs' //Picture form Linkedin Profile
 						alt='Profile pic'
 					/>
 				</div>
@@ -154,7 +154,7 @@ const Home = ({ scrollRef }) => {
 					style={{ color: `${newTheme.title}` }}
 					className={styles.heading}
 				>
-					Things I've Developed
+					Working Experience
 				</h1>
 				<div className={styles.borderBottom} />
 				<div>
