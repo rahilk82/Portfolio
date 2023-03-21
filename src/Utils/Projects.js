@@ -1,7 +1,7 @@
 export const projects = [
 	{
 		img: 'https://miro.medium.com/max/1400/1*tds0Sy4f9sFynFElZV5DnA.jpeg',
-		title: 'Nike clone',
+		title: 'CICD Pipeling in Jenkins',
 		des: "A web application to buy sports and fashion accessories along with the suitable clothes.",
 		demo: '',
 		live: 'https://nike-five.vercel.app/',

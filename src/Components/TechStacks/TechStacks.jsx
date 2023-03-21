@@ -26,7 +26,9 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-linux-plain colored' />
+					
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style={{width: "50px"}}/>
+          
 					<span>Linux</span>
 				</div>
 				<div
@@ -56,7 +58,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-amazonwebservices-original colored' />
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style={{width: "50px"}}/>
+
 					<span>AWS</span>
 				</div>
 				<div
@@ -66,10 +69,9 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i
-						style={{ color: '#7248B6' }}
-						className='devicon-jenkins-plain colored'
-					/>
+					
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style={{width:"50px"}} />
+          
 					<span>Jenkins</span>
 				</div>
 				<div
@@ -79,10 +81,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i
-						style={{ color: '#509941' }}
-						className='devicon-nodejs-plain'
-					/>
+					
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style={{width:"70px"}} />
 					<span>Node</span>
 				</div>
 				<div
@@ -92,7 +92,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-kubernetes-plain colored' />
+					
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style={{width: "50px"}}/>
 					<span>Kubernetes</span>
 				</div>
 				<div

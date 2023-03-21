@@ -16,7 +16,7 @@
 	align-items: center;
 	flex-direction: column;
 	padding: 10px;
-	color: cornsilk;
+	color: rgb(255, 255, 255);
 	transition: 0.5s;
 	clip-path: circle(50%)
 

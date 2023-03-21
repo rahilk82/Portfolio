@@ -26,7 +26,7 @@ function App() {
 					className='logoStart'
 				>
 					<img
-						src='https://media.istockphoto.com/vectors/linear-geometric-outline-alphabet-letter-r-simple-logo-design-blue-vector-id1180874390'
+						src='/R_logo.png'
 						alt='logo'
 					/>
 				</div>

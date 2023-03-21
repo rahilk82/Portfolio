@@ -80,7 +80,7 @@ body::after {
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
-	border-bottom: 7px solid #9802be;
+	border-bottom: 10px solid #9802be;
 	transform: rotate(-2deg);
 	transition: 0.5s;
 	position: fixed;
@@ -107,7 +107,7 @@ body::after {
 }
 .borderBottom {
 	border-bottom: 3px solid #0282bd;
-	width: 200px;
+	width: 300px;
 	margin: 10px auto;
 	border-radius: 10px;
 }
@@ -120,10 +120,15 @@ body::after {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	color: #fff;
 }
 .resumeBtn i {
 	margin-left: 10px;
 	font-size: 20px;
+}
+
+.resumeBtn span {
+	font-weight: 700;
 }
 
 @media screen and (max-width: 1300px) {

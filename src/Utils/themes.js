@@ -1,7 +1,7 @@
 export const theme = {
 	dark: {
 		background: '#111825',
-		title: '#CCD6F6',
+		title: '#fff',
 		para: '#8993b1',
 		heading: '#CCD6F6',
 		line: '#24243a',
@@ -10,11 +10,11 @@ export const theme = {
 		sideIcons: '#8892b0',
 		menuBackground: '#093047',
 		card: '#112240',
-		linkHover: 'linear-gradient(120deg, #182744, #132c26',
+		linkHover: 'linear-gradient(135deg, rgb(13 2 48), rgb(111, 216, 193))', 
 	},
 	light: {
 		background: '#FFFFFF',
-		title: '#233742',
+		title: '#000',
 		para: '#233742',
 		heading: '#233742',
 		line: 'lightgray',
@@ -23,6 +23,6 @@ export const theme = {
 		sideIcons: '#766161',
 		menuBackground: '#aaeff8',
 		card: '#8BD8CE',
-		linkHover: 'linear-gradient(135deg, #ccc0f5, #6fd8c1)',
+		linkHover: 'linear-gradient(135deg, rgb(13 2 48), rgb(111, 216, 193))',
 	},
 };
