@@ -14,7 +14,7 @@ export const theme = {
 	},
 	light: {
 		background: '#FFFFFF',
-		title: '#000',
+		title: '#000000',
 		para: '#233742',
 		heading: '#233742',
 		line: 'lightgray',
