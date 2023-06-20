@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://media.licdn.com/dms/image/D4D03AQE2vRxmIfM7sg/profile-displayphoto-shrink_800_800/0/1679158262575?e=1684368000&v=beta&t=98wVGqJSe_ZG7hVbKsq1LN2btuXtEMYmQ0_uD_Eqyqs' //Picture form Linkedin Profile
+						src='https://resume-portfolio-rahil.s3.eu-west-1.amazonaws.com/Website-Cropped.jpeg' //Picture form Linkedin Profile
 						alt='Profile pic'
 					/>
 				</div>
