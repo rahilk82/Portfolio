@@ -59,7 +59,7 @@ const SideIcons = () => {
 					</li>
 					<li>
 						<a
-							href='https://instagram.com/roshanjain_17?utm_medium=copy_link'
+							href='https://www.instagram.com/munfareed_sa/'
 							aria-label='Instagram'
 							target='_blank'
 							rel='noreferrer'
