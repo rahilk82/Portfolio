@@ -4,7 +4,7 @@ export const projects = [
 		title: 'Containerized the Performance Tracking Application on Docker via CICD',
 		des: "Performance Tracking application deplopyed through containerization technology on Docker to support the rapid deployment.",
 		demo: '',
-		live: 'https://nike-five.vercel.app/',
+		live: 'https://skillwatch.app',
 		gitHub: 'https://github.com/scalereal/performance-tracking-app.git',
 		technologies: [  'Docker',"AWS" , "Ansible",'Github Actions', "Caddy", "Node"],
 	},
@@ -34,6 +34,15 @@ export const projects = [
 		live: 'https://yesstyle-web-app.herokuapp.com/',
 		gitHub: 'https://github.com/rahilk82/Portfolio.git',
 		technologies: ['Docker',"AWS", "Ansible", 'Github Actions', "Caddy", "Node"],
+	},
+	{
+		img: 'https://resume-portfolio-rahil.s3.eu-west-1.amazonaws.com/Tenfold+Architecture+Diagram.drawio.png',
+		title: 'Tenfold Education App',
+		des: 'Tenfold is an education app based out of South Africa and made publicly available for children to access for free for lifetime to the childrens. ',
+		demo: '',
+		live: 'https://yesstyle-web-app.herokuapp.com/',
+		gitHub: 'https://github.com/10fold/tenfold_devops.git',
+		technologies: ['Python',"AWS", "Ansible", 'Django', "Nginx"],
 	},
 	
 ];
