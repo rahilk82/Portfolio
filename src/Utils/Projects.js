@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		img: 'https://resume-portfolio-rahil.s3.eu-west-1.amazonaws.com/Skillwatch.jpg',
+		img: 'https://dbvmbr4e7seyp.cloudfront.net/Skillwatch.jpg',
 		title: 'Containerized the Performance Tracking Application on Docker via CICD',
 		des: "Performance Tracking application deplopyed through containerization technology on Docker to support the rapid deployment.",
 		demo: '',
@@ -36,7 +36,7 @@ export const projects = [
 		technologies: ['Docker',"AWS", "Ansible", 'Github Actions', "Caddy", "Node"],
 	},
 	{
-		img: 'https://resume-portfolio-rahil.s3.eu-west-1.amazonaws.com/Tenfold+Architecture+Diagram.drawio.png',
+		img: 'https://dbvmbr4e7seyp.cloudfront.net/Tenfold%20Architecture%20Diagram.drawio.png',
 		title: 'Tenfold Education App',
 		des: 'Tenfold is an education app based out of South Africa and made publicly available for children to access for free for lifetime to the childrens. ',
 		demo: '',

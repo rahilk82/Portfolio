@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://resume-portfolio-rahil.s3.eu-west-1.amazonaws.com/Website-Cropped.jpeg' //Picture form Linkedin Profile
+						src='https://dbvmbr4e7seyp.cloudfront.net/Website-Cropped.jpeg' //Picture form Linkedin Profile
 						alt='Profile pic'
 					/>
 				</div>
