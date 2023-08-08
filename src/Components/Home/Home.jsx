@@ -84,7 +84,7 @@ const Home = ({ scrollRef }) => {
 					</h1>
 					<div className={styles.btn}>
 						<a
-							href='https://dbvmbr4e7seyp.cloudfront.net/Rahil+Khan.pdf' // Resume
+							href='https://dbvmbr4e7seyp.cloudfront.net/resume.pdf' // Resume
 							target='blank'
 						>
 							<Button
